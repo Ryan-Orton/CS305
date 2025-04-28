@@ -22,6 +22,5 @@ After refactoring, I tested the code in Eclipse with Maven builds, executed the 
 # Helpful Resources and Practices:
 I used the OWASP Dependency-Check tool, applied SHA-256 hashing, configured HTTPS with a self-signed certificate, and followed secure coding practices like input validation and avoiding hardcoded secrets​.
 
-Work to Show Future Employers:
+# Work to Show Future Employers
 I would present the vulnerability assessment report, the secure refactored code, screenshots of successful dependency scans and functional tests, and documented mitigation strategies. These showcase my secure coding skills and problem-solving abilities.
-
